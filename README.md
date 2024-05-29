@@ -75,7 +75,7 @@ This is a simple web application for compressing video files to a desired percen
 
 ## Project Structure
 
-![Project Structure](project_structure_final.jpg )
+![Project Structure](backend/project_structure_final.jpg )
 
 ## Usage
 
